@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MerkuMerku
-- 👀 I’m interested in web design and data science!
-- 🌱 I’m currently teaching myself how to use React!
+- 👀 I’m currently interested in data science!
+- 🌱 I’m a MSc Big Data Science student!
 
 <!---
 MerkuMerku/MerkuMerku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MerkuMerku
-- 👀 I’m currently interested in Software Development & Data Science!
-- 🌱 I’m a MSc Big Data Science student at QMUL!
+- 👀 I’m currently interested in pursuing a career in data science!
+- ❤️ In my spare time, I'm a self-taught web developer
+- 🌱 I’m a current MSc Big Data Science student at QMUL!
 - ⚡ Check out some of my projects!
 
 <!---

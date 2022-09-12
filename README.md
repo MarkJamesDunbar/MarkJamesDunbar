@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MerkuMerku
 - 👀 I’m currently pursuing a career in data science!
 - 🧪 I'm an intern Data Scientist
-- 🌱 I’m an MSc Big Data Science student at QMUL!
+- 🌱 I’m an MSc Big Data Science graduate from QMUL!
 - ⚡ Check out some of my projects
 
 <!---

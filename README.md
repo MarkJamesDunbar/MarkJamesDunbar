@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MerkuMerku
+- 👋 Hi, I’m @MarkJamesDunbar
 - 👀 I’m pursuing a career in data science!
 - 🧪 I'm currently an intern Data Scientist at Sky!
 - 🌱 I’m an MSc Big Data Science graduate from QMUL

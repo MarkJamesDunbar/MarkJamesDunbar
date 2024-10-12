@@ -1,11 +1,4 @@
 👋 Hi, I’m @MarkJamesDunbar
-
-👀 I’m pursuing a career in Data Science!
-
-🧪 I'm currently a Data Scientist at Daintta
-
-🌱 My background is in Physics and Statistics
-
 ⬇️ Check out some of my projects below
 
 <!---
